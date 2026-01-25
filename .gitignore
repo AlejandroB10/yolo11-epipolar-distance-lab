@@ -1,0 +1,20 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS
+.DS_Store
+Thumbs.db
+
+# nbconvert / LaTeX artifacts
+final-practice_files/
+notebook.tex
+notebook.log
+notebook.out
+notebook.aux
+notebook.pdf
+notebook_files/
+*.synctex.gz
