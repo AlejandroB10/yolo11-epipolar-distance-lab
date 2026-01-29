@@ -18,3 +18,11 @@ notebook.aux
 notebook.pdf
 notebook_files/
 *.synctex.gz
+
+
+final-practice.tex
+final-practice.log
+final-practice.out
+final-practice.aux
+final-practice.toc
+texput.log
